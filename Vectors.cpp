@@ -90,11 +90,11 @@ void Operations() {
 	std::cout << glm::to_string(Reflect) << std::endl;
 }
 
-int main() {
-	Constructors();
-	Components();
-	Swizzle();
-	Operations();
-
-	return 0;
-}
+//int main() {
+//	Constructors();
+//	Components();
+//	Swizzle();
+//	Operations();
+//
+//	return 0;
+//}
